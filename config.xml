@@ -33,13 +33,13 @@
     <preference name="DisallowOverscroll" value="true" />
     <preference name="UIWebViewBounce" value="false" />
 
-    <!--Plugins-->
+    <!--Plugins
     <gap:plugin name="com.phonegap.plugin.statusbar" />
     <gap:plugin name="org.apache.cordova.splashscreen" />
     <gap:plugin name="org.apache.cordova.inappbrowser" />
     <gap:plugin name="org.apache.cordova.geolocation" />
     <gap:plugin name="org.apache.cordova.dialogs" />
-    <gap:plugin name="net.yoik.cordova.plugins.screenorientation" />    
+    <gap:plugin name="net.yoik.cordova.plugins.screenorientation" />    -->
 
     <!--
        Fixed Android geoposition bug
